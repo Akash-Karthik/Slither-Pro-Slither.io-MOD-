@@ -3,3 +3,4 @@ Epic mod for slither.io :) Includes zoom hack and food hack . Leave comment on i
 See this if you dont understand how to install https://developer.chrome.com/docs/webstore/publish/
 Leave a star and create an issue if you find any . 
 Wiki is still a work in progress .
+Version 1.1 on the way :D
